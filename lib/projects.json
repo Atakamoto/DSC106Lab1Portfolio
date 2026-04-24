@@ -1,0 +1,74 @@
+[
+{
+    "title": "San Diego Heat Vulnerability Index",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Designed and implemented a block-group-level Heat Vulnerability Index for San Diego County by integrating multiyear PRISM climate data with ACS socioeconomic indicators, engineering exposure, hazard, and vulnerability features to quantify spatial disparities in heat risk."
+  },
+  {
+    "title": "SD Species Audio Classification",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Downloaded 4TB+ of audio data from Xeno-Canto and experimented with BIRDNET classifier on data"
+  }, 
+  {
+    "title": "Energy Research Paper Classifier",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Built a Python pipeline to process academic PDFs and attempt structured classification of EV battery research integrating local LLMs (Qwen via Ollama)"
+  },  
+  {
+    "title": "Indonesia Slum Classification",
+    "year": 2026,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Worked with U-Net model to classify informal/formal settlements in Indonesia using satellite imagery"
+  },
+  {
+    "title": "UCSD Building Occupancy Tracker",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Developed an AWS Lambda and Google Sheets pipeline to ingest real-time JSON data, normalize it, and display live occupancy data in a centralized dashboard."
+  },
+  {
+    "title": "Esports Win-Loss Predictor",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Built a Random Forest model on 150K+ rows of League of Legends match data, performing feature engineering, permutation tests, and fairness evaluation to achieve 75.7% accuracy."
+  },
+  {
+    "title": "Kepler Transit Planet Classification",
+    "year": 2025,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Using lightcurve data from the Kepler Space Telescope to classify candidate planets based on patterns in data"
+  },
+  {
+    "title": "Indonesia Migrant Policy Analysis",
+    "year": 2024,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Used GeoPandas to analyze skill transferability across migrants after policy in Indonesia and visualized differences across subdistricts"
+  },
+  {
+    "title": "Exoplanet Habitability Prediction Tool",
+    "year": 2024,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Streamlit app with Logistic Regression classifying exoplanets by astrophysical features; dynamic sliders & live probability output."
+  },
+  {
+    "title": "Hospital Satisfaction Predictor",
+    "year": 2023,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "XGBoost regression for patient survey ratings; applied LIME & SHAP for interpretability; MSE 0.384"
+  },
+  {
+    "title": "Japanese Song Recommender System",
+    "year": 2022,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Recommends Japanese Songs based on English song that are inputted using Spotify API and cosine similarity of song features (tempo, key, etc.)"
+  },
+  {
+    "title": "Sports Team Simulator",
+    "year": 2021,
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Customizable team simulator with ability to change players stats, create players, change team players, create a season, etc."
+  }
+]

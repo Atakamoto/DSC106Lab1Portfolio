@@ -159,3 +159,29 @@ button {
 select {
   font: inherit;
 }
+
+#profile-stats {
+  margin-top: 2rem;
+}
+
+#profile-stats dl {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  text-align: center;
+}
+
+#profile-stats dt {
+  grid-row: 1;
+  font-size: 0.8rem;
+  color: #666;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+#profile-stats dd {
+  grid-row: 2;
+  font-size: 2rem;
+  font-weight: bold;
+  margin: 0;
+}
